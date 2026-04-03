@@ -973,7 +973,7 @@
           <mxGeometry x="81" y="7176" width="180" height="49" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-446" value="国际IDC分析模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="587" y="7183" width="180" height="49" as="geometry" />
+          <mxGeometry x="665" y="7178" width="180" height="49" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-448" value="数据聚合模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="436" y="7278" width="156" height="49" as="geometry" />
@@ -1076,15 +1076,6 @@
         <mxCell id="RRtjizxXUTj7MODO8YZP-470" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-450" target="RRtjizxXUTj7MODO8YZP-452">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-471" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.78;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="610" y="7155" />
-            </Array>
-            <mxPoint x="839" y="7120" as="sourcePoint" />
-            <mxPoint x="611" y="7177" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
