@@ -672,6 +672,9 @@
         <mxCell id="RRtjizxXUTj7MODO8YZP-331" value="递归域名解析设施监测" style="whiteSpace=wrap;strokeWidth=2;fontSize=23;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1219" y="5497" width="188" height="59" as="geometry" />
         </mxCell>
+        <mxCell id="RRtjizxXUTj7MODO8YZP-362" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-332" target="RRtjizxXUTj7MODO8YZP-335">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-332" value="互联网域名资源监测" style="whiteSpace=wrap;strokeWidth=2;fontSize=23;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1537" y="5497" width="169" height="59" as="geometry" />
         </mxCell>
@@ -679,7 +682,7 @@
           <mxGeometry x="1818" y="5492" width="157" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-335" value="知识图谱构建引擎" style="whiteSpace=wrap;strokeWidth=2;fontSize=23;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1555" y="5669" width="189" height="49" as="geometry" />
+          <mxGeometry x="1528" y="5671" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-338" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=23;fontStyle=1" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-318" target="RRtjizxXUTj7MODO8YZP-320">
           <mxGeometry relative="1" as="geometry">
@@ -780,13 +783,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1292" y="5542" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-356" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.21;entryY=0;rounded=0;fontSize=23;fontStyle=1" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-332" target="RRtjizxXUTj7MODO8YZP-335">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1521" y="5542" />
+              <mxPoint x="1423" y="5590" />
             </Array>
           </mxGeometry>
         </mxCell>
