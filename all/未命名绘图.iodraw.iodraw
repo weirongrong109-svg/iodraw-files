@@ -825,7 +825,7 @@
         <mxCell id="RRtjizxXUTj7MODO8YZP-373" value="国际IDC/CDN服务分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1729" y="6602" width="180" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-374" value="IDC机房流量分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="RRtjizxXUTj7MODO8YZP-374" value="IDC/CDN机房流量分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1969" y="6602" width="180" height="49" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-375" value="天粒度统计" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fontStyle=1" vertex="1" parent="1">
