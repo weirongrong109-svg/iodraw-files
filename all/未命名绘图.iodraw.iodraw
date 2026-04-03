@@ -529,7 +529,7 @@
         <mxCell id="RRtjizxXUTj7MODO8YZP-272" value="我国权威域对外提供服务情况" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2706" y="3901" width="252" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-273" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-258" target="RRtjizxXUTj7MODO8YZP-259">
+        <mxCell id="RRtjizxXUTj7MODO8YZP-273" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-258" target="RRtjizxXUTj7MODO8YZP-259">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
