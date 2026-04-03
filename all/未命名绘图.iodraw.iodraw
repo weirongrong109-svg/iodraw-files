@@ -1067,7 +1067,7 @@
           <mxGeometry x="-1164" y="8375" width="210" height="51" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-539" value="IDC业务监测展示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-893" y="8161" width="124" height="49" as="geometry" />
+          <mxGeometry x="-894" y="8104" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-545" value="互联网资源" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-904" y="8376" width="140" height="49" as="geometry" />
@@ -1126,7 +1126,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-581" value="IDC业务监测展示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-883" y="8171" width="124" height="49" as="geometry" />
+          <mxGeometry x="-889" y="8234" width="124" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
