@@ -1061,10 +1061,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-534" value="访问用户" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="-1360" y="8374" width="110" height="54" as="geometry" />
+          <mxGeometry x="-1360" y="8329" width="110" height="54" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-535" value="互联网业务监测展示" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="-1164" y="8375" width="210" height="51" as="geometry" />
+          <mxGeometry x="-1164" y="8330" width="185" height="51" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-539" value="IDC业务监测展示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-887" y="8201" width="124" height="49" as="geometry" />
