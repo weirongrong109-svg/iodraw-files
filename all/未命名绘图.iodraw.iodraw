@@ -1066,8 +1066,8 @@
         <mxCell id="RRtjizxXUTj7MODO8YZP-535" value="互联网业务监测展示" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="-1164" y="8375" width="210" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-539" value="网络性能" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-896" y="8001" width="124" height="49" as="geometry" />
+        <mxCell id="RRtjizxXUTj7MODO8YZP-539" value="IDC业务监测展示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-893" y="8161" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-545" value="互联网资源" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-904" y="8376" width="140" height="49" as="geometry" />
@@ -1124,6 +1124,9 @@
               <mxPoint x="-739" y="8526" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RRtjizxXUTj7MODO8YZP-581" value="IDC业务监测展示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-883" y="8171" width="124" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
