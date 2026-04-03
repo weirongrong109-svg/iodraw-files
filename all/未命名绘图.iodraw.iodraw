@@ -43,9 +43,6 @@
         <mxCell id="RRtjizxXUTj7MODO8YZP-70" value="趋势预测分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="844" y="671" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-71" value="业务大类行业分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="671" width="188" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-72" value="业务大类分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1288" y="671" width="156" height="49" as="geometry" />
         </mxCell>
@@ -54,12 +51,6 @@
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-74" value="行业间分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1684" y="671" width="140" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-75" value="H1,H2,H3,H4,H5" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1276" y="80" width="178" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-76" value="I1,I2,I3,I4" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1503" y="80" width="129" height="49" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-77" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-58" target="RRtjizxXUTj7MODO8YZP-59">
           <mxGeometry relative="1" as="geometry">
@@ -136,13 +127,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="922" y="646" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-89" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.75;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-65" target="RRtjizxXUTj7MODO8YZP-71">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1144" y="646" />
             </Array>
           </mxGeometry>
         </mxCell>
