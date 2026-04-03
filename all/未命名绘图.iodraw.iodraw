@@ -804,7 +804,7 @@
         <mxCell id="RRtjizxXUTj7MODO8YZP-366" value="路由库" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1488" y="6208" width="108" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-367" value="IDC_IP地址范围" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="RRtjizxXUTj7MODO8YZP-367" value="IDC_IP/CDN_IP地址范围" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1646" y="6208" width="170" height="49" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-368" value="IP地址库" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fontStyle=1" vertex="1" parent="1">
