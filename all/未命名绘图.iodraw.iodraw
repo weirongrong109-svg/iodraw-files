@@ -667,16 +667,13 @@
           <mxGeometry x="2179" y="5272" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-331" value="递归域名解析设施监测" style="whiteSpace=wrap;strokeWidth=2;fontSize=23;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1198" y="5459" width="188" height="59" as="geometry" />
+          <mxGeometry x="1216" y="5464" width="188" height="59" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-332" value="互联网域名资源监测" style="whiteSpace=wrap;strokeWidth=2;fontSize=23;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1436" y="5459" width="169" height="59" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-333" value="权威域名解析设施监测" style="whiteSpace=wrap;strokeWidth=2;fontSize=23;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1655" y="5458" width="157" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-334" value="行为分析模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=23;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1862" y="5469" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-335" value="知识图谱构建引擎" style="whiteSpace=wrap;strokeWidth=2;fontSize=23;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1539" y="5567" width="189" height="49" as="geometry" />
@@ -783,13 +780,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-354" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.79;entryX=0.5;entryY=-0.01;rounded=0;fontSize=23;fontStyle=1" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-329" target="RRtjizxXUTj7MODO8YZP-334">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1940" y="5444" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-355" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0;entryY=0.22;rounded=0;fontSize=23;fontStyle=1" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-331" target="RRtjizxXUTj7MODO8YZP-335">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -808,13 +798,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1734" y="5542" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-358" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=1;entryY=0.19;rounded=0;fontSize=23;fontStyle=1" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-334" target="RRtjizxXUTj7MODO8YZP-335">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1940" y="5542" />
             </Array>
           </mxGeometry>
         </mxCell>
