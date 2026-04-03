@@ -1228,35 +1228,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-573" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.56;exitY=1;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-535" target="RRtjizxXUTj7MODO8YZP-550">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-929" y="8651" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-574" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.94;exitY=-0.01;entryX=0;entryY=0.48;rounded=0;" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-550" target="RRtjizxXUTj7MODO8YZP-551">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-739" y="8609" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-575" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.94;exitY=0.98;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-550" target="RRtjizxXUTj7MODO8YZP-552">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-739" y="8693" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-576" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.53;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-535">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-929" y="8902" />
-            </Array>
-            <mxPoint x="-896" y="8901.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-577" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.64;exitY=0.01;entryX=0;entryY=0.48;rounded=0;" edge="1" parent="1" target="RRtjizxXUTj7MODO8YZP-554">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
