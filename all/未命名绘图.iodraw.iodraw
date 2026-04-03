@@ -1063,7 +1063,7 @@
         <mxCell id="RRtjizxXUTj7MODO8YZP-534" value="访问用户" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="-1360" y="8374" width="110" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-535" value="互联网和传输业务展示" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="RRtjizxXUTj7MODO8YZP-535" value="互联网业务监测展示" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="-1164" y="8375" width="210" height="51" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-536" value="基础资源" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -1116,9 +1116,6 @@
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-552" value="CDN业务" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-689" y="8676" width="85" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-553" value="专线业务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-896" y="8877" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-554" value="中继电路" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-690" y="8760" width="87" height="34" as="geometry" />
@@ -1252,39 +1249,44 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-576" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.53;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-535" target="RRtjizxXUTj7MODO8YZP-553">
+        <mxCell id="RRtjizxXUTj7MODO8YZP-576" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.53;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-535">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-929" y="8902" />
             </Array>
+            <mxPoint x="-896" y="8901.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-577" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.64;exitY=0.01;entryX=0;entryY=0.48;rounded=0;" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-553" target="RRtjizxXUTj7MODO8YZP-554">
+        <mxCell id="RRtjizxXUTj7MODO8YZP-577" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.64;exitY=0.01;entryX=0;entryY=0.48;rounded=0;" edge="1" parent="1" target="RRtjizxXUTj7MODO8YZP-554">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-739" y="8776" />
             </Array>
+            <mxPoint x="-815.6428571428569" y="8877" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-578" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.94;exitY=0.01;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-553" target="RRtjizxXUTj7MODO8YZP-555">
+        <mxCell id="RRtjizxXUTj7MODO8YZP-578" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.94;exitY=0.01;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" target="RRtjizxXUTj7MODO8YZP-555">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-739" y="8860" />
             </Array>
+            <mxPoint x="-777.377551020407" y="8877" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-579" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.94;exitY=0.99;entryX=0;entryY=0.48;rounded=0;" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-553" target="RRtjizxXUTj7MODO8YZP-556">
+        <mxCell id="RRtjizxXUTj7MODO8YZP-579" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.94;exitY=0.99;entryX=0;entryY=0.48;rounded=0;" edge="1" parent="1" target="RRtjizxXUTj7MODO8YZP-556">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-739" y="8943" />
             </Array>
+            <mxPoint x="-777.377551020407" y="8926" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-580" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.64;exitY=0.99;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-553" target="RRtjizxXUTj7MODO8YZP-557">
+        <mxCell id="RRtjizxXUTj7MODO8YZP-580" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.64;exitY=0.99;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" target="RRtjizxXUTj7MODO8YZP-557">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-739" y="9027" />
             </Array>
+            <mxPoint x="-815.6428571428569" y="8926" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
