@@ -973,7 +973,7 @@
           <mxGeometry x="80" y="7179" width="180" height="49" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-446" value="国际IDC分析模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="310" y="7179" width="180" height="49" as="geometry" />
+          <mxGeometry x="602" y="7182" width="180" height="49" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-448" value="数据聚合模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="436" y="7278" width="156" height="49" as="geometry" />
@@ -1047,24 +1047,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-462" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-444" target="RRtjizxXUTj7MODO8YZP-446">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="399" y="7154" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-464" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.26;rounded=0;" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-445" target="RRtjizxXUTj7MODO8YZP-448">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="170" y="7253" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-465" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.14;entryY=-0.01;rounded=0;" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-446" target="RRtjizxXUTj7MODO8YZP-448">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="399" y="7253" />
             </Array>
           </mxGeometry>
         </mxCell>
