@@ -1069,7 +1069,7 @@
         <mxCell id="RRtjizxXUTj7MODO8YZP-539" value="IDC业务监测展示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-894" y="8104" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-550" value="跨境业务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="RRtjizxXUTj7MODO8YZP-550" value="国际流量监测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-887" y="8377" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-558" value="访问" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-534" target="RRtjizxXUTj7MODO8YZP-535">
@@ -1085,6 +1085,9 @@
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-581" value="IDC业务监测展示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-889" y="8234" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="RRtjizxXUTj7MODO8YZP-582" value="国际流量监测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-877" y="8387" width="125" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
