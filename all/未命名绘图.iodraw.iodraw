@@ -1113,14 +1113,6 @@
         <mxCell id="RRtjizxXUTj7MODO8YZP-592" value="互联网业务监测子系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="468" y="8694" width="220" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-593" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=-0.01;entryX=0;entryY=0.17;rounded=0;" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-587" target="RRtjizxXUTj7MODO8YZP-588">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="217" y="8541" />
-              <mxPoint x="747" y="8541" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-594" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=0.98;entryX=0;entryY=0.13;rounded=0;" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-587" target="RRtjizxXUTj7MODO8YZP-589">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
