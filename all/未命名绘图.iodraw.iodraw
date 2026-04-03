@@ -1096,10 +1096,10 @@
           <mxGeometry x="-888" y="8471" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-589" value="互联网业务展示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="266" y="8587" width="172" height="49" as="geometry" />
+          <mxGeometry x="548" y="8693" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-592" value="互联网业务监测子系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="546" y="8631" width="145" height="49" as="geometry" />
+          <mxGeometry x="556" y="8566" width="145" height="49" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-599" value="数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="549" y="8469" width="145" height="49" as="geometry" />
