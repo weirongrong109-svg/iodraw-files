@@ -682,7 +682,7 @@
           <mxGeometry x="1818" y="5492" width="157" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-335" value="域名及解析设施监测" style="whiteSpace=wrap;strokeWidth=2;fontSize=23;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1528" y="5671" width="189" height="49" as="geometry" />
+          <mxGeometry x="1528" y="5671" width="256" height="49" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-338" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=23;fontStyle=1" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-318" target="RRtjizxXUTj7MODO8YZP-320">
           <mxGeometry relative="1" as="geometry">
