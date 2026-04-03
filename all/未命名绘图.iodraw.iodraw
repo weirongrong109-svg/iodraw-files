@@ -978,7 +978,7 @@
         <mxCell id="RRtjizxXUTj7MODO8YZP-483" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-445" target="RRtjizxXUTj7MODO8YZP-448">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-445" value="国内IDC分析模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="RRtjizxXUTj7MODO8YZP-445" value="国内IDC/CDN分析模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="275" y="7171" width="180" height="49" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-484" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-446" target="RRtjizxXUTj7MODO8YZP-448">
