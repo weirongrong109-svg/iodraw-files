@@ -40,6 +40,9 @@
         <mxCell id="RRtjizxXUTj7MODO8YZP-38" value="趋势预测分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1292" y="513" width="156" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="RRtjizxXUTj7MODO8YZP-39" value="业务大类行业分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="10" y="510" width="188" height="49" as="geometry" />
+        </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-40" value="业务大类分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="258" y="611" width="156" height="49" as="geometry" />
         </mxCell>
@@ -117,28 +120,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1370" y="488" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-54" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.93;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-33">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="114" y="586" />
-            </Array>
-            <mxPoint x="104" y="510" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-55" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.53;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-33" target="RRtjizxXUTj7MODO8YZP-40">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="336" y="586" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.93;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-33" target="RRtjizxXUTj7MODO8YZP-41">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="534" y="586" />
             </Array>
           </mxGeometry>
         </mxCell>
