@@ -14,7 +14,7 @@
           <mxGeometry x="190" y="70" width="121" height="49" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-4" value="地理信息匹配" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="282" y="217" width="157" height="49" as="geometry" />
+          <mxGeometry x="190" y="217" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-5" value="流量数据丰富化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="274" y="316" width="172" height="49" as="geometry" />
