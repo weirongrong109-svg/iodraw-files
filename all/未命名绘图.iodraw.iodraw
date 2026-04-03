@@ -660,8 +660,11 @@
         <mxCell id="RRtjizxXUTj7MODO8YZP-328" value="地理信息引擎" style="whiteSpace=wrap;strokeWidth=2;fontSize=23;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1973" y="5272" width="157" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="RRtjizxXUTj7MODO8YZP-361" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-329" target="RRtjizxXUTj7MODO8YZP-332">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-329" value="多源数据融合中心" style="whiteSpace=wrap;strokeWidth=2;fontSize=23;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1528" y="5370" width="188" height="49" as="geometry" />
+          <mxGeometry x="1528" y="5370" width="188" height="65" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-330" value="应用识别引擎" style="whiteSpace=wrap;strokeWidth=2;fontSize=23;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2179" y="5272" width="157" height="49" as="geometry" />
@@ -763,13 +766,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1292" y="5444" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-352" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.24;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=23;fontStyle=1" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-329" target="RRtjizxXUTj7MODO8YZP-332">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1521" y="5444" />
             </Array>
           </mxGeometry>
         </mxCell>
