@@ -373,30 +373,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-230" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0;entryY=0.01;rounded=0;" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-212">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="250" y="2823" />
-            </Array>
-            <mxPoint x="350" y="2848.49" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-231" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.51;entryY=0;rounded=0;" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-213">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="448" y="2823" />
-            </Array>
-            <mxPoint x="445.8800000000001" y="2848" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-232" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.99;entryY=0;rounded=0;" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-214">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="630" y="2823" />
-            </Array>
-            <mxPoint x="536.1200000000013" y="2848" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
