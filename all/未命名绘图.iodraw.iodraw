@@ -177,11 +177,11 @@
         <mxCell id="RRtjizxXUTj7MODO8YZP-178" value="流量分析引擎" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="937" y="1621" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-180" value="协议分析模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="RRtjizxXUTj7MODO8YZP-180" value="单一业务基本分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="787" y="1727" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-182" value="企业分析模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1066" y="1724" width="157" height="49" as="geometry" />
+          <mxGeometry x="1054" y="1725" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-184" value="数据存储服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="922" y="1829" width="157" height="49" as="geometry" />
