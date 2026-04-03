@@ -667,16 +667,16 @@
           <mxGeometry x="2179" y="5272" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-331" value="递归域名解析设施监测" style="whiteSpace=wrap;strokeWidth=2;fontSize=23;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1216" y="5464" width="188" height="59" as="geometry" />
+          <mxGeometry x="1219" y="5497" width="188" height="59" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-332" value="互联网域名资源监测" style="whiteSpace=wrap;strokeWidth=2;fontSize=23;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1436" y="5459" width="169" height="59" as="geometry" />
+          <mxGeometry x="1537" y="5497" width="169" height="59" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-333" value="权威域名解析设施监测" style="whiteSpace=wrap;strokeWidth=2;fontSize=23;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1862" y="5459" width="157" height="60" as="geometry" />
+          <mxGeometry x="1818" y="5492" width="157" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-335" value="知识图谱构建引擎" style="whiteSpace=wrap;strokeWidth=2;fontSize=23;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1539" y="5567" width="189" height="49" as="geometry" />
+          <mxGeometry x="1555" y="5669" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-338" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=23;fontStyle=1" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-318" target="RRtjizxXUTj7MODO8YZP-320">
           <mxGeometry relative="1" as="geometry">
@@ -799,13 +799,6 @@
             <Array as="points">
               <mxPoint x="1734" y="5542" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-360" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;fontSize=23;fontStyle=1" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="1632.999999999999" y="5715" as="sourcePoint" />
-            <mxPoint x="1633" y="5763.999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
