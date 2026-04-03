@@ -43,11 +43,8 @@
         <mxCell id="RRtjizxXUTj7MODO8YZP-70" value="趋势预测分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="844" y="671" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-72" value="业务大类分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1288" y="671" width="156" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-73" value="行业内分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1494" y="671" width="140" height="49" as="geometry" />
+          <mxGeometry x="1490" y="680" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-74" value="行业间分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1684" y="671" width="140" height="49" as="geometry" />
@@ -127,13 +124,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="922" y="646" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-90" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-65" target="RRtjizxXUTj7MODO8YZP-72">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1366" y="646" />
             </Array>
           </mxGeometry>
         </mxCell>
