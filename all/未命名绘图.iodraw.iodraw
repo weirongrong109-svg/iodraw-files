@@ -837,7 +837,7 @@
         <mxCell id="RRtjizxXUTj7MODO8YZP-377" value="国内重点IDC国际访问流量数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1147" y="6799" width="260" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-378" value="国际IDC企业流量数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="RRtjizxXUTj7MODO8YZP-378" value="国际IDC/CDN企业流量数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1457" y="6807" width="212" height="49" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-379" value="IDC机房流量数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fontStyle=1" vertex="1" parent="1">
