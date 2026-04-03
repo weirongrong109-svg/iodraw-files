@@ -1107,6 +1107,9 @@
         <mxCell id="RRtjizxXUTj7MODO8YZP-599" value="数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="549" y="8469" width="145" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="RRtjizxXUTj7MODO8YZP-602" value="业务员数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="604" y="8546" width="78" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
