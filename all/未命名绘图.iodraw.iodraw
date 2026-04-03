@@ -966,6 +966,12 @@
         <mxCell id="RRtjizxXUTj7MODO8YZP-443" value="IP地址库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="644" y="6982" width="121" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="RRtjizxXUTj7MODO8YZP-472" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="591.0000000000005" y="7111.000000000001" as="sourcePoint" />
+            <mxPoint x="758" y="7183.499999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-444" value="地理信息匹配模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="399" y="7081" width="189" height="49" as="geometry" />
         </mxCell>
