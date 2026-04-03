@@ -181,10 +181,7 @@
           <mxGeometry x="525" y="1720" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-180" value="协议分析模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="731" y="1720" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-181" value="地域分析模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="937" y="1720" width="157" height="49" as="geometry" />
+          <mxGeometry x="787" y="1727" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-182" value="企业分析模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1144" y="1720" width="157" height="49" as="geometry" />
@@ -251,11 +248,6 @@
             <Array as="points">
               <mxPoint x="809" y="1695" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-196" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-178" target="RRtjizxXUTj7MODO8YZP-181">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-197" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.87;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-178" target="RRtjizxXUTj7MODO8YZP-182">
