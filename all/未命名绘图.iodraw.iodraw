@@ -163,7 +163,7 @@
           <mxGeometry x="937" y="1227" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-174" value="Netflow数据接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="806" y="1325" width="181" height="49" as="geometry" />
+          <mxGeometry x="802" y="1364" width="181" height="49" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-175" value="IP地址库接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1036" y="1326" width="153" height="49" as="geometry" />
@@ -174,7 +174,7 @@
         <mxCell id="RRtjizxXUTj7MODO8YZP-177" value="数据处理引擎" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="937" y="1523" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-178" value="流量分析引擎" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="RRtjizxXUTj7MODO8YZP-178" value="分析引擎" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="937" y="1621" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-180" value="单一业务基本分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
