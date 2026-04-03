@@ -1092,21 +1092,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-559" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.52;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-535">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-929" y="7733" />
-            </Array>
-            <mxPoint x="-896" y="7732.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-562" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.54;exitY=0;entryX=0;entryY=0.48;rounded=0;" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-535" target="RRtjizxXUTj7MODO8YZP-539">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-929" y="8025" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-568" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-535" target="RRtjizxXUTj7MODO8YZP-545">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
