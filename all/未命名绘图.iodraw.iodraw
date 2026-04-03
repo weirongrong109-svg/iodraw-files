@@ -1096,7 +1096,10 @@
           <mxGeometry x="-888" y="8471" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-589" value="互联网业务展示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="810" y="8704" width="172" height="49" as="geometry" />
+          <mxGeometry x="768" y="8696" width="172" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="RRtjizxXUTj7MODO8YZP-604" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-592" target="RRtjizxXUTj7MODO8YZP-589">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-592" value="互联网业务监测子系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="457" y="8686" width="145" height="49" as="geometry" />
@@ -1108,10 +1111,10 @@
           <mxGeometry x="184" y="8685" width="145" height="49" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-602" value="业务数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="630" y="8544" width="66" height="26" as="geometry" />
+          <mxGeometry x="359" y="8681" width="66" height="26" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-603" value="结果数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="696" y="8715" width="66" height="26" as="geometry" />
+          <mxGeometry x="661" y="8689" width="66" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
