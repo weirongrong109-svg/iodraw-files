@@ -987,6 +987,12 @@
         <mxCell id="RRtjizxXUTj7MODO8YZP-446" value="国际IDC分析模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="557" y="7170" width="180" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="RRtjizxXUTj7MODO8YZP-485" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-448" target="RRtjizxXUTj7MODO8YZP-449">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RRtjizxXUTj7MODO8YZP-486" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-448" target="RRtjizxXUTj7MODO8YZP-450">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-448" value="数据聚合模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="436" y="7278" width="156" height="49" as="geometry" />
         </mxCell>
@@ -1015,14 +1021,6 @@
         <mxCell id="RRtjizxXUTj7MODO8YZP-457" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-440" target="RRtjizxXUTj7MODO8YZP-442">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-468" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="RRtjizxXUTj7MODO8YZP-450">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="645" y="7352" />
-            </Array>
-            <mxPoint x="644.6249999999998" y="7328" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-469" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-449" target="RRtjizxXUTj7MODO8YZP-451">
