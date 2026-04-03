@@ -810,7 +810,7 @@
         <mxCell id="RRtjizxXUTj7MODO8YZP-368" value="IP地址库" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1482" y="6306" width="121" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="RRtjizxXUTj7MODO8YZP-369" value="IDC流量识别" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="RRtjizxXUTj7MODO8YZP-369" value="IDC/CDN流量识别" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1840" y="6306" width="148" height="49" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-370" value="地理信息匹配" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;fontStyle=1" vertex="1" parent="1">
