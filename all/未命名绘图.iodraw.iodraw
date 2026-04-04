@@ -1096,7 +1096,7 @@
           <mxGeometry x="-888" y="8471" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-589" value="互联网业务展示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="768" y="8696" width="172" height="49" as="geometry" />
+          <mxGeometry x="755" y="8687" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-604" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RRtjizxXUTj7MODO8YZP-592" target="RRtjizxXUTj7MODO8YZP-589">
           <mxGeometry relative="1" as="geometry" />
@@ -1114,7 +1114,7 @@
           <mxGeometry x="359" y="8681" width="66" height="26" as="geometry" />
         </mxCell>
         <mxCell id="RRtjizxXUTj7MODO8YZP-603" value="结果数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="661" y="8689" width="66" height="26" as="geometry" />
+          <mxGeometry x="627" y="8689" width="66" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
