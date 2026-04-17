@@ -1673,8 +1673,14 @@
         <mxCell id="jt9OLJt_auf3DHzYSdMH-249" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-212" target="jt9OLJt_auf3DHzYSdMH-215">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-250" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-212" target="jt9OLJt_auf3DHzYSdMH-217">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-212" value="分流规则策略管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1844" y="14096" width="189" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-251" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-213" target="jt9OLJt_auf3DHzYSdMH-218">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-213" value="分流流量监测统计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2174" y="14106" width="162" height="49" as="geometry" />
@@ -1692,7 +1698,7 @@
           <mxGeometry x="1968" y="14204" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-218" value="分流流量监测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2174" y="14206" width="157" height="49" as="geometry" />
+          <mxGeometry x="2177" y="14204" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-236" value="流量流入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1789" y="13889" width="66" height="26" as="geometry" />
@@ -1703,6 +1709,10 @@
         <mxCell id="jt9OLJt_auf3DHzYSdMH-245" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.877;entryY=0.041;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="jt9OLJt_auf3DHzYSdMH-213">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1939" y="14046" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="2255" y="14047" />
+              <mxPoint x="2255" y="14108" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-247" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.599;entryY=0.061;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-211" target="jt9OLJt_auf3DHzYSdMH-214">
