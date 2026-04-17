@@ -1552,7 +1552,7 @@
           <mxGeometry x="1928" y="12944" width="90" height="26" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-180" value="网络设备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1637" y="8631" width="236" height="49" as="geometry" />
+          <mxGeometry x="1727" y="8648" width="200" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
