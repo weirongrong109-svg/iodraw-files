@@ -1458,7 +1458,7 @@
           <mxGeometry x="2328" y="12478" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-157" value="流量监测页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2060" y="12480" width="156" height="49" as="geometry" />
+          <mxGeometry x="2078" y="12479" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-158" value="设备与端口组服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2566" y="12629" width="189" height="49" as="geometry" />
