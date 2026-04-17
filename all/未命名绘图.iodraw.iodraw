@@ -1431,8 +1431,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-151" value="硬件与数据层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2061" y="12901" width="745" height="99" as="geometry" />
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-151" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2044" y="12904" width="745" height="99" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-152" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2040" y="12752" width="497" height="99" as="geometry" />
@@ -1471,7 +1471,7 @@
           <mxGeometry x="2154" y="12926" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-164" value="配置/日志数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2590" y="12926" width="180" height="49" as="geometry" />
+          <mxGeometry x="2541" y="12923" width="180" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-165" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-155" target="jt9OLJt_auf3DHzYSdMH-158">
           <mxGeometry relative="1" as="geometry">
@@ -1547,6 +1547,9 @@
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-178" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;用户与策略层&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1923" y="12479" width="90" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-179" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;硬件与数据层&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1928" y="12944" width="90" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
