@@ -1131,7 +1131,7 @@
         <mxCell id="jt9OLJt_auf3DHzYSdMH-5" value="外部交互层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1351" y="9072" width="306" height="369" as="geometry" />
         </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-6" value="上游：网络流量汇聚信号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-6" value="汇聚分流设备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1890" y="8687" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-7" value="下游：监测分析系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
