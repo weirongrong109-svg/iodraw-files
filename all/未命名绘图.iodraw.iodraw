@@ -1205,7 +1205,7 @@
           <mxGeometry x="1704" y="10200" width="1367" height="99" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-59" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1890" y="9953" width="1056" height="197" as="geometry" />
+          <mxGeometry x="1890" y="9953" width="1056" height="176" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-60" value="汇聚分流设备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2418" y="9978" width="157" height="49" as="geometry" />
@@ -1262,11 +1262,13 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-75" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.63;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-61" target="jt9OLJt_auf3DHzYSdMH-64">
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-75" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.63;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2926" y="10150" />
+              <mxPoint x="2868" y="10173.13" />
             </Array>
+            <mxPoint x="2500" y="10131" as="sourcePoint" />
+            <mxPoint x="2868.5" y="10248.13" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-76" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.16;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-62" target="jt9OLJt_auf3DHzYSdMH-65">
@@ -1339,6 +1341,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.515;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-59" target="jt9OLJt_auf3DHzYSdMH-59">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
