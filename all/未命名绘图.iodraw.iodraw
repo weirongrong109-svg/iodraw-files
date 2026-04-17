@@ -1136,17 +1136,11 @@
         <mxCell id="jt9OLJt_auf3DHzYSdMH-6" value="汇聚分流设备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2046" y="8648" width="236" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-7" value="被动监测监测分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2004" y="9084" width="204" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-9" value="分流规则策略管理页面 (策略配置/全局设置)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="643" y="8782" width="221" height="66" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-10" value="设备管理服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1637" y="8937" width="157" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-11" target="jt9OLJt_auf3DHzYSdMH-7">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-11" value="端口组管理服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2019" y="8940" width="173" height="49" as="geometry" />
@@ -1191,9 +1185,6 @@
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-50" value="接口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2164" y="8729" width="42" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-55" value="输出" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2111" y="9026" width="42" height="26" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-56" value="输出与分析层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1749" y="10515" width="1197" height="232" as="geometry" />
@@ -1571,6 +1562,69 @@
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-185" value="流量流出" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2313" y="8640" width="66" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-186" value="" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="2828" y="13177" width="1101" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-187" value="设备管理服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="jt9OLJt_auf3DHzYSdMH-186">
+          <mxGeometry x="43" y="46" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-188" value="全局参数配置服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="jt9OLJt_auf3DHzYSdMH-186">
+          <mxGeometry x="250" y="46" width="189" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-189" value="端口组管理服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="jt9OLJt_auf3DHzYSdMH-186">
+          <mxGeometry x="488" y="46" width="173" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-190" value="策略下发服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="jt9OLJt_auf3DHzYSdMH-186">
+          <mxGeometry x="711" y="46" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-191" value="分流流量监测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="jt9OLJt_auf3DHzYSdMH-186">
+          <mxGeometry x="917" y="46" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-192" value="" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="2043" y="13177" width="736" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-193" value="分流设备管理页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="jt9OLJt_auf3DHzYSdMH-192">
+          <mxGeometry x="43" y="46" width="189" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-194" value="分流规则策略管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="jt9OLJt_auf3DHzYSdMH-192">
+          <mxGeometry x="282" y="46" width="189" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-195" value="分流流量监测统计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="jt9OLJt_auf3DHzYSdMH-192">
+          <mxGeometry x="520" y="46" width="189" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-196" value="网络设备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1526" y="13283" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-197" value="汇聚分流设备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1768" y="13283" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-198" value="被动监测分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2332" y="13351" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-199" value="流量流入" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.48;entryX=0;entryY=0.48;rounded=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-196" target="jt9OLJt_auf3DHzYSdMH-197">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-200" value="流量流出" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=0.98;entryX=0;entryY=0.48;rounded=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-197" target="jt9OLJt_auf3DHzYSdMH-198">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1984" y="13375" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-201" value="接口" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=-0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-197" target="jt9OLJt_auf3DHzYSdMH-192">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1984" y="13239" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-202" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-192" target="jt9OLJt_auf3DHzYSdMH-186">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
