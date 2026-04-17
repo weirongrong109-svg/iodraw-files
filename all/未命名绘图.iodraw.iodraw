@@ -1458,7 +1458,7 @@
           <mxGeometry x="2059" y="12629" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-161" value="统一设备接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2332" y="12765" width="156" height="49" as="geometry" />
+          <mxGeometry x="2411" y="12771" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-162" value="协议适配" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2075" y="12777" width="124" height="49" as="geometry" />
