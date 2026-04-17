@@ -1351,9 +1351,6 @@
         <mxCell id="jt9OLJt_auf3DHzYSdMH-120" value="输出与分析层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1743" y="11935" width="1000" height="197" as="geometry" />
         </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-121" value="核心服务层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1695" y="11787" width="1157" height="99" as="geometry" />
-        </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-122" value="用户管理层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1722" y="11638" width="1146" height="99" as="geometry" />
         </mxCell>
@@ -1374,15 +1371,6 @@
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-128" value="分流流量监测统计页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2612" y="11663" width="221" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-131" value="全局参数配置服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2159" y="11812" width="189" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-132" value="策略下发服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2398" y="11812" width="157" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-133" value="分流流量监测服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2628" y="11812" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-134" value="输出模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2191" y="11960" width="124" height="49" as="geometry" />
@@ -1430,23 +1418,26 @@
             <mxPoint x="2023.5" y="11812" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-142" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-127" target="jt9OLJt_auf3DHzYSdMH-131">
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-142" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-127">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2253" y="11737" />
             </Array>
+            <mxPoint x="2253.5" y="11812" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-143" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-127" target="jt9OLJt_auf3DHzYSdMH-132">
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-143" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-127">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2476" y="11737" />
             </Array>
+            <mxPoint x="2476.5" y="11812" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-144" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-128" target="jt9OLJt_auf3DHzYSdMH-133">
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-144" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-128">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="2722.5" y="11812" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-145" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0;entryY=0.35;rounded=0;" edge="1" parent="1" target="jt9OLJt_auf3DHzYSdMH-134">
@@ -1465,23 +1456,12 @@
             <mxPoint x="2023.5" y="11861" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-147" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-131" target="jt9OLJt_auf3DHzYSdMH-134">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-148" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=1;entryY=0.21;rounded=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-132" target="jt9OLJt_auf3DHzYSdMH-134">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2476" y="11935" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-149" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=1;entryY=0.36;rounded=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-133" target="jt9OLJt_auf3DHzYSdMH-134">
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-149" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=1;entryY=0.36;rounded=0;" edge="1" parent="1" target="jt9OLJt_auf3DHzYSdMH-134">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2722" y="11935" />
             </Array>
+            <mxPoint x="2722.5" y="11861" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-150" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-134" target="jt9OLJt_auf3DHzYSdMH-135">
