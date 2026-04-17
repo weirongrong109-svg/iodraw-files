@@ -1458,13 +1458,13 @@
           <mxGeometry x="2059" y="12629" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-161" value="统一设备接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2455" y="12774" width="156" height="49" as="geometry" />
+          <mxGeometry x="2449" y="12773" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-162" value="协议适配" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2248" y="12774" width="161" height="49" as="geometry" />
+          <mxGeometry x="2259" y="12774" width="161" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-163" value="分流设备硬件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2140" y="12926" width="157" height="49" as="geometry" />
+          <mxGeometry x="2260" y="12927" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-164" value="配置/日志数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2491" y="12929" width="180" height="49" as="geometry" />
@@ -1479,7 +1479,7 @@
           <mxGeometry x="1953" y="12491" width="90" height="26" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-179" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;硬件与数据层&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1940" y="12928" width="90" height="26" as="geometry" />
+          <mxGeometry x="1966" y="12940" width="90" height="26" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-180" target="jt9OLJt_auf3DHzYSdMH-6">
           <mxGeometry relative="1" as="geometry" />
