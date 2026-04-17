@@ -1654,16 +1654,16 @@
           <mxGeometry x="1781" y="13971" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-211" value="分流设备管理页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1446" y="14075" width="189" height="49" as="geometry" />
+          <mxGeometry x="1443" y="14094" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-212" value="分流规则策略管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1756" y="14071" width="189" height="49" as="geometry" />
+          <mxGeometry x="1742" y="14101" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-213" value="分流流量监测统计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2058" y="14074" width="189" height="49" as="geometry" />
+          <mxGeometry x="2042" y="14097" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-214" value="设备管理服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1629" y="14267" width="157" height="49" as="geometry" />
+          <mxGeometry x="1350" y="14199" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-215" value="全局参数配置服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1852" y="14267" width="189" height="49" as="geometry" />
