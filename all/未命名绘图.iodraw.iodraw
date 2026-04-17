@@ -1722,7 +1722,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-236" value="流量流入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1655" y="13854" width="66" height="26" as="geometry" />
+          <mxGeometry x="1676" y="13873" width="66" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-237" value="流量流出" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1922" y="13867" width="66" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
