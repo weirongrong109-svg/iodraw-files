@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="i3EJGklvv7pH53LpXBkt">
-    <mxGraphModel dx="3188" dy="1114" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2923" dy="928" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1375,12 +1375,6 @@
         <mxCell id="jt9OLJt_auf3DHzYSdMH-128" value="分流流量监测统计页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2612" y="11663" width="221" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-129" value="设备管理服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1730" y="11812" width="157" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-130" value="端口组管理服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1937" y="11812" width="173" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-131" value="全局参数配置服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2159" y="11812" width="189" height="49" as="geometry" />
         </mxCell>
@@ -1420,18 +1414,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-140" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.23;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-126" target="jt9OLJt_auf3DHzYSdMH-129">
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-140" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.23;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-126">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1808" y="11737" />
             </Array>
+            <mxPoint x="1808.5" y="11812" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-141" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.78;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-126" target="jt9OLJt_auf3DHzYSdMH-130">
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-141" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.78;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-126">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2023" y="11737" />
             </Array>
+            <mxPoint x="2023.5" y="11812" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-142" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-127" target="jt9OLJt_auf3DHzYSdMH-131">
@@ -1453,18 +1449,20 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-145" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0;entryY=0.35;rounded=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-129" target="jt9OLJt_auf3DHzYSdMH-134">
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-145" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0;entryY=0.35;rounded=0;" edge="1" parent="1" target="jt9OLJt_auf3DHzYSdMH-134">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1808" y="11935" />
             </Array>
+            <mxPoint x="1808.5" y="11861" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-146" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0;entryY=0.22;rounded=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-130" target="jt9OLJt_auf3DHzYSdMH-134">
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-146" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0;entryY=0.22;rounded=0;" edge="1" parent="1" target="jt9OLJt_auf3DHzYSdMH-134">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2023" y="11935" />
             </Array>
+            <mxPoint x="2023.5" y="11861" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-147" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-131" target="jt9OLJt_auf3DHzYSdMH-134">
