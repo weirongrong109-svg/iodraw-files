@@ -1654,13 +1654,13 @@
           <mxGeometry x="1781" y="13971" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-211" value="分流设备管理页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1732" y="14070" width="189" height="49" as="geometry" />
+          <mxGeometry x="1446" y="14075" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-212" value="分流规则策略管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1613" y="14168" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-213" value="分流流量监测统计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1953" y="14074" width="189" height="49" as="geometry" />
+          <mxGeometry x="1852" y="14168" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-214" value="设备管理服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1629" y="14267" width="157" height="49" as="geometry" />
@@ -1686,6 +1686,13 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1707" y="14143" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-226" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-211" target="jt9OLJt_auf3DHzYSdMH-213">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1946" y="14143" />
             </Array>
           </mxGeometry>
         </mxCell>
