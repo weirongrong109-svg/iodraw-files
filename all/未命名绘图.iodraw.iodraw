@@ -1669,7 +1669,7 @@
           <mxGeometry x="1957" y="14100" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-214" value="设备管理服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1629" y="14267" width="157" height="49" as="geometry" />
+          <mxGeometry x="1502" y="14156" width="191" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-215" value="全局参数配置服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1852" y="14267" width="189" height="49" as="geometry" />
