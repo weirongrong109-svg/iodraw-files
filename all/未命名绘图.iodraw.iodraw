@@ -1478,7 +1478,7 @@
         <mxCell id="jt9OLJt_auf3DHzYSdMH-163" value="分流设备硬件" style="whiteSpace=wrap;strokeWidth=2;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="2260" y="12927" width="157" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-164" value="配置/数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-164" value="数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2461" y="12927" width="148" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-175" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;服务控制层&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
