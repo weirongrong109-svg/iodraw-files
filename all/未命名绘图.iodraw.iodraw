@@ -1650,6 +1650,9 @@
         <mxCell id="jt9OLJt_auf3DHzYSdMH-209" value="被动监测分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2105" y="13888" width="156" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-242" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-210" target="jt9OLJt_auf3DHzYSdMH-212">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-210" value="接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1893" y="13976" width="92" height="49" as="geometry" />
         </mxCell>
@@ -1657,7 +1660,7 @@
           <mxGeometry x="1443" y="14094" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-212" value="分流规则策略管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1839" y="14101" width="189" height="49" as="geometry" />
+          <mxGeometry x="1843" y="14101" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-213" value="分流流量监测统计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2174" y="14106" width="162" height="49" as="geometry" />
