@@ -1123,7 +1123,7 @@
           <mxGeometry x="131" y="9195" width="570" height="122" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-6" value="汇聚分流设备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2079" y="8609" width="236" height="49" as="geometry" />
+          <mxGeometry x="2046" y="8648" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-7" value="下游：监测分析系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2036" y="9142" width="204" height="49" as="geometry" />
