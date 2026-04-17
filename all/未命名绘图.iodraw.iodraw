@@ -1663,8 +1663,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-256" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="1875" y="12727" width="37" height="106" as="geometry" />
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-257" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="1862" y="12737" width="70" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
