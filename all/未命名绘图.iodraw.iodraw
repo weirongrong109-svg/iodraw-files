@@ -1626,13 +1626,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-206" value="网络设备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1534" y="13774" width="124" height="49" as="geometry" />
+          <mxGeometry x="1549" y="13882" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-207" value="流量流出" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1983" y="13701" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-208" value="汇聚分流设备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1764" y="13862" width="157" height="49" as="geometry" />
+          <mxGeometry x="1760" y="13883" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-209" value="被动监测分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2007" y="13772" width="156" height="49" as="geometry" />
@@ -1663,11 +1663,6 @@
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-218" value="分流流量监测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1629" y="14464" width="157" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-223" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.49;entryY=0;rounded=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-209" target="jt9OLJt_auf3DHzYSdMH-210">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-224" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-210" target="jt9OLJt_auf3DHzYSdMH-211">
           <mxGeometry relative="1" as="geometry">
