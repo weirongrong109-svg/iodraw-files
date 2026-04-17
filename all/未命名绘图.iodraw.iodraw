@@ -1285,7 +1285,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-38" value="分流设备管理页面 (设备/端口组配置)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-38" value="分流设备管理页面 " style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1703" y="8794" width="251" height="66" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-39" value="分流规则策略管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
