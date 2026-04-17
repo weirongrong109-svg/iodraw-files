@@ -1481,14 +1481,17 @@
         <mxCell id="jt9OLJt_auf3DHzYSdMH-164" value="数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2461" y="12927" width="148" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-267" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-175" target="jt9OLJt_auf3DHzYSdMH-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-175" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;服务控制层&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1960" y="12640" width="78" height="26" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-176" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;设备抽象层&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1960" y="12795" width="78" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-178" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;用户与策略层&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1872" y="12499" width="90" height="26" as="geometry" />
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-178" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;管理与策略层&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1948" y="12495" width="90" height="26" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-179" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;硬件与数据层&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1953" y="12939" width="90" height="26" as="geometry" />
