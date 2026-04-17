@@ -1170,35 +1170,6 @@
         <mxCell id="jt9OLJt_auf3DHzYSdMH-19" value="系统日志/状态库" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="530" y="9220" width="135" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.67;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="jt9OLJt_auf3DHzYSdMH-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1010" y="8873" />
-            </Array>
-            <mxPoint x="593" y="8826.22" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.68;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-9" target="jt9OLJt_auf3DHzYSdMH-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="216" y="8873" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.57;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-9" target="jt9OLJt_auf3DHzYSdMH-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="779" y="8873" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.7;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-9" target="jt9OLJt_auf3DHzYSdMH-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1245" y="8873" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.82;entryX=0;entryY=0.19;rounded=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-10" target="jt9OLJt_auf3DHzYSdMH-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -1230,27 +1201,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.72;entryX=0.36;entryY=0;rounded=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-10" target="jt9OLJt_auf3DHzYSdMH-17">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="200" y="9022" />
-              <mxPoint x="200" y="9195" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.62;entryX=0.86;entryY=0;rounded=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-11" target="jt9OLJt_auf3DHzYSdMH-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="308" y="9022" />
               <mxPoint x="308" y="9195" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.85;exitY=0.99;entryX=0.09;entryY=0;rounded=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-12" target="jt9OLJt_auf3DHzYSdMH-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="328" y="9022" />
-              <mxPoint x="328" y="9195" />
             </Array>
           </mxGeometry>
         </mxCell>
