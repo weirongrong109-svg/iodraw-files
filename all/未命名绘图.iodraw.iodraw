@@ -1670,6 +1670,9 @@
         <mxCell id="jt9OLJt_auf3DHzYSdMH-211" value="分流设备管理页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1443" y="14094" width="189" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-249" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-212" target="jt9OLJt_auf3DHzYSdMH-215">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-212" value="分流规则策略管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1844" y="14096" width="189" height="49" as="geometry" />
         </mxCell>
