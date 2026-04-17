@@ -1461,13 +1461,13 @@
           <mxGeometry x="2084" y="12483" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-158" value="分流设备管理服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2580" y="12629" width="189" height="49" as="geometry" />
+          <mxGeometry x="2578" y="12634" width="189" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-159" value="策略配置与下发服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-159" value="规则策略配置服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2307" y="12632" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-160" value="流量监测服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2059" y="12629" width="157" height="49" as="geometry" />
+          <mxGeometry x="2082" y="12629" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-161" value="统一设备接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2449" y="12773" width="156" height="49" as="geometry" />
