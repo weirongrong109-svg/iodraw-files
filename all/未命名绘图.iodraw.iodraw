@@ -1207,6 +1207,9 @@
         <mxCell id="jt9OLJt_auf3DHzYSdMH-39" value="分流规则策略管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1984" y="8797" width="221" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-40" value="分流规则策略管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2246" y="8796" width="221" height="66" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
