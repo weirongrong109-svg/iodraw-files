@@ -1706,13 +1706,9 @@
         <mxCell id="jt9OLJt_auf3DHzYSdMH-237" value="流量流出" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2028" y="13888" width="66" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-245" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.877;entryY=0.041;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="jt9OLJt_auf3DHzYSdMH-213">
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-245" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="jt9OLJt_auf3DHzYSdMH-213">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1939" y="14046" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="2255" y="14047" />
-              <mxPoint x="2255" y="14108" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-247" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.599;entryY=0.061;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-211" target="jt9OLJt_auf3DHzYSdMH-214">
