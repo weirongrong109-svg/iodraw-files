@@ -1170,14 +1170,6 @@
         <mxCell id="jt9OLJt_auf3DHzYSdMH-19" value="系统日志/状态库" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="530" y="9220" width="135" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.82;entryX=0;entryY=0.19;rounded=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-10" target="jt9OLJt_auf3DHzYSdMH-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="797" y="9022" />
-              <mxPoint x="797" y="9072" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=0.99;entryX=0.54;entryY=-0.01;rounded=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-11" target="jt9OLJt_auf3DHzYSdMH-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -1201,29 +1193,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.62;entryX=0.86;entryY=0;rounded=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-11" target="jt9OLJt_auf3DHzYSdMH-17">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="308" y="9022" />
-              <mxPoint x="308" y="9195" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.83;entryX=0.87;entryY=0;rounded=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-13" target="jt9OLJt_auf3DHzYSdMH-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="497" y="9022" />
-              <mxPoint x="497" y="9195" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.62;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-14" target="jt9OLJt_auf3DHzYSdMH-19">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="598" y="9022" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.77;entryX=1;entryY=0.2;rounded=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-15" target="jt9OLJt_auf3DHzYSdMH-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -1236,7 +1205,7 @@
           <mxGeometry x="1703" y="8794" width="251" height="66" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-39" value="分流规则策略管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2005" y="8792" width="221" height="66" as="geometry" />
+          <mxGeometry x="1984" y="8797" width="221" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
