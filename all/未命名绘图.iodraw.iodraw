@@ -1451,6 +1451,9 @@
         <mxCell id="jt9OLJt_auf3DHzYSdMH-158" value="设备与端口组服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2566" y="12629" width="189" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-254" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-159" target="jt9OLJt_auf3DHzYSdMH-161">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-159" value="策略配置与下发服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2313" y="12619" width="205" height="49" as="geometry" />
         </mxCell>
@@ -1705,12 +1708,6 @@
               <mxPoint x="1538" y="14171" />
               <mxPoint x="1444" y="14171" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-253" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2362" y="12788" as="sourcePoint" />
-            <mxPoint x="2412" y="12738" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
