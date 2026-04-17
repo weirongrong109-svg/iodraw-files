@@ -1437,7 +1437,7 @@
         <mxCell id="jt9OLJt_auf3DHzYSdMH-152" value="设备抽象层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2040" y="12752" width="497" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-153" value="服务控制层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-153" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2024" y="12604" width="766" height="99" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-154" value="用户与策略层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -1456,7 +1456,7 @@
           <mxGeometry x="2566" y="12629" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-159" value="策略配置与下发服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2312" y="12629" width="205" height="49" as="geometry" />
+          <mxGeometry x="2313" y="12619" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-160" value="流量监测服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2059" y="12629" width="157" height="49" as="geometry" />
