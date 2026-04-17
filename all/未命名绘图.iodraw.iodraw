@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-266" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1959" y="12904" width="63" height="99" as="geometry" />
+        </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-265" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1957" y="12752" width="61" height="99" as="geometry" />
         </mxCell>
@@ -1437,7 +1440,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-151" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2044" y="12904" width="745" height="99" as="geometry" />
+          <mxGeometry x="2027" y="12904" width="762" height="99" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-152" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2024" y="12752" width="768" height="99" as="geometry" />
@@ -1476,7 +1479,7 @@
           <mxGeometry x="2260" y="12927" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-164" value="配置/数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2491" y="12929" width="180" height="49" as="geometry" />
+          <mxGeometry x="2461" y="12927" width="180" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-175" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;服务控制层&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1960" y="12640" width="78" height="26" as="geometry" />
@@ -1680,9 +1683,6 @@
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-259" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.63;dx=14.75;direction=south;notch=0;" vertex="1" parent="1">
           <mxGeometry x="2392" y="12858" width="64" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-266" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1959" y="12904" width="63" height="99" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
