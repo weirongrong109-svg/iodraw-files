@@ -1136,8 +1136,8 @@
         <mxCell id="jt9OLJt_auf3DHzYSdMH-6" value="汇聚分流设备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2046" y="8648" width="236" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-7" value="下游：监测分析系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2036" y="9142" width="204" height="49" as="geometry" />
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-7" value="监测分析系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1999" y="9084" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-9" value="分流规则策略管理页面 (策略配置/全局设置)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="643" y="8782" width="221" height="66" as="geometry" />
