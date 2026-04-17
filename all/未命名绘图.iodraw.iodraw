@@ -1201,7 +1201,7 @@
         <mxCell id="jt9OLJt_auf3DHzYSdMH-57" value="核心服务层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1637" y="10349" width="1446" height="116" as="geometry" />
         </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-58" value="用户管理层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-58" value="t" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1704" y="10200" width="1367" height="99" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-59" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -1344,6 +1344,9 @@
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.515;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-59" target="jt9OLJt_auf3DHzYSdMH-59">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-88" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1787" y="10028" width="40" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
