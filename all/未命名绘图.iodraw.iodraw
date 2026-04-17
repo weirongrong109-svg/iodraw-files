@@ -1170,14 +1170,6 @@
         <mxCell id="jt9OLJt_auf3DHzYSdMH-19" value="系统日志/状态库" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="530" y="9220" width="135" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="jt9OLJt_auf3DHzYSdMH-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="557" y="8873" />
-            </Array>
-            <mxPoint x="531.56" y="8848" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.67;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="jt9OLJt_auf3DHzYSdMH-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
