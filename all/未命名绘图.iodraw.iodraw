@@ -1434,7 +1434,7 @@
         <mxCell id="jt9OLJt_auf3DHzYSdMH-151" value="硬件与数据层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2061" y="12901" width="745" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-152" value="设备抽象层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-152" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2040" y="12752" width="497" height="99" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-153" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -1446,8 +1446,11 @@
         <mxCell id="jt9OLJt_auf3DHzYSdMH-155" value="设备管理页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2583" y="12480" width="156" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-177" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-156" target="jt9OLJt_auf3DHzYSdMH-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-156" value="策略管理页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2336" y="12480" width="156" height="49" as="geometry" />
+          <mxGeometry x="2342" y="12558" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-157" value="流量监测页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2059" y="12480" width="156" height="49" as="geometry" />
@@ -1538,6 +1541,12 @@
               <mxPoint x="2557" y="12901" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-175" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;服务控制层&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1926" y="12636" width="78" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-176" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;设备抽象层&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1928" y="12767" width="78" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
