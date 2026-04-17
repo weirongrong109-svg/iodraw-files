@@ -1136,7 +1136,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-6" value="汇聚分流设备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2065" y="8652" width="236" height="49" as="geometry" />
+          <mxGeometry x="2017" y="8651" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-9" value="分流规则策略管理页面 (策略配置/全局设置)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="643" y="8782" width="221" height="66" as="geometry" />
@@ -1557,7 +1557,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-183" value="流量流入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1968" y="8641" width="66" height="26" as="geometry" />
+          <mxGeometry x="1947" y="8646" width="66" height="26" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-184" value="被动监测分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2425" y="8656" width="204" height="49" as="geometry" />
