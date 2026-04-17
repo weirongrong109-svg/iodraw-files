@@ -1149,9 +1149,6 @@
         <mxCell id="jt9OLJt_auf3DHzYSdMH-13" value="全局参数配置服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="685" y="8948" width="189" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-14" value="策略下发服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1167" y="8948" width="157" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-15" value="设备通信接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="986" y="9097" width="156" height="49" as="geometry" />
         </mxCell>
@@ -1175,12 +1172,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jt9OLJt_auf3DHzYSdMH-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.71;exitY=0.99;entryX=1;entryY=0.17;rounded=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-14" target="jt9OLJt_auf3DHzYSdMH-15">
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.71;exitY=0.99;entryX=1;entryY=0.17;rounded=0;" edge="1" parent="1" target="jt9OLJt_auf3DHzYSdMH-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1311" y="9022" />
               <mxPoint x="1311" y="9072" />
             </Array>
+            <mxPoint x="1279.1428571428569" y="8997" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="jt9OLJt_auf3DHzYSdMH-15" target="jt9OLJt_auf3DHzYSdMH-16">
@@ -1206,6 +1204,9 @@
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-40" value="分流流量监测统计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2246" y="8796" width="221" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="jt9OLJt_auf3DHzYSdMH-43" value="策略下发服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2445" y="8938" width="157" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
