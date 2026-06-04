@@ -1476,7 +1476,7 @@
           <mxGeometry x="2259" y="12774" width="161" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-164" value="数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2313" y="12928" width="247" height="49" as="geometry" />
+          <mxGeometry x="2302" y="12928" width="247" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jt9OLJt_auf3DHzYSdMH-175" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;服务层&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1967" y="12648" width="54" height="26" as="geometry" />
